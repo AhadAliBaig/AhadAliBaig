@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhadAliBaig
-- 👀 I’m interested in in learning new things each day and specially about AI/ML.
+- 👀 I’m interested in in learning new things each day, specially about AI/ML.
 - 🌱 I’m currently learning basics of machine learning with Microsoft Azure.
 - 📫 How to reach me ahadalibaig689@gmail.com 
 - 😄 Pronouns: he/him
