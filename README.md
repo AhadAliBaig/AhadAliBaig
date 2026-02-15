@@ -1,5 +1,5 @@
 About Me:
- Ahad Ali Baig<br><br>## Computer Science Student | Full Stack Developer | Machine Learning Learner<br><br>I am a Computer Science student focused on building scalable web applications and developing strong backend architecture skills. I am currently working with Angular, Node.js, Express, and PostgreSQL to build structured, production oriented applications. Alongside full stack development, I am studying machine learning fundamentals using Microsoft Azure and exploring practical AI applications.<br><br>My goal is to design efficient systems, write maintainable code, and continuously improve my understanding of software architecture and data driven systems.<br>
+ Ahad Ali Baig<br><br>Computer Science Student | Full Stack Developer | Machine Learning Learner<br><br>I am a Computer Science student focused on building scalable web applications and developing strong backend architecture skills. I am currently working with Angular, Node.js, Express, and PostgreSQL to build structured, production oriented applications. Alongside full stack development, I am studying machine learning fundamentals using Microsoft Azure and exploring practical AI applications.<br><br>My goal is to design efficient systems, write maintainable code, and continuously improve my understanding of software architecture and data driven systems.<br>
 
 
 ##  Socials:
