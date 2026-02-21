@@ -14,6 +14,4 @@ About Me:
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ahad Ali Baig&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
